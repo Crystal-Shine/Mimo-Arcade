@@ -8,7 +8,7 @@ Welcome to **Mimo Arcade**, a collection of playful mini-games starring Mimo —
 
 Explore 10 mini-games, discover hidden story quests, beat your high scores, and see what Mimo gets up to along the way.
 **🎮 Play Mimo Arcade:**  
-https://crystal-shine.github.io/mimo-arcade/
+https://crystal-shine.github.io/Mimo-Arcade/
 ---
 ## 🌸 What's Inside?
 
